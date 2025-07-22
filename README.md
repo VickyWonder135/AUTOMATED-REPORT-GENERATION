@@ -1,2 +1,19 @@
 # AUTOMATED-REPORT-GENERATION
+
+*COMPANY*: CODTECH IT SOLUTION
+
+*NAME*: M.VIGNESH
+
+*INTERN ID*: CT06DG2138
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+##
+
+#OUTPUT
+
 <img width="348" height="666" alt="Image" src="https://github.com/user-attachments/assets/80e8ec1c-b7b2-416c-bc92-1a01acf4e6e2" />
